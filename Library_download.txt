@@ -1,0 +1,6 @@
+1. https://pypi.org/project/qrcode/
+2. in command promnt-----> pip install "qrcode[pil]"
+
+
+3. Link to qr code ------> we need qr code library
+4. save as file we need-----> pilo(image saving)
