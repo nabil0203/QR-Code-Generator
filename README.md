@@ -1,6 +1,6 @@
 # 📷 QR Code Generator from Input File
 
-A simple Python script that reads a **text or URL** and a **file name** from a text file, generates a QR code, and saves it as an image.
+A simple Python script that reads a **Text/URL** and a **File name** from a Text file. Then generates a QR code and saves it as an image.
 
 ---
 
@@ -48,7 +48,7 @@ python your_script_name.py
 ## 📂 Project Structure
 <pre>
   ├── input.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Input with text/URL and filename 
-  ├── your_script_name.py &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;# Python script to generate QR 
+  ├── your_script_name.py &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;# Python code to generate QR 
   └── YT.png &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Output QR code image
 </pre>
 
@@ -58,7 +58,7 @@ python your_script_name.py
 ## 📦 Requirements
 ● Python 3.x
 
-● qrcode library (pip install qrcode[pil])
+● QrCode library:- pip install qrcode[pil]
 
 ---
 
@@ -68,11 +68,6 @@ python your_script_name.py
 ● The second line must end with .png or .jpg.
 
 ● The image will be saved in the current directory.
-
----
-
-## 📄 License
-● This project is licensed under the MIT License.
 
 ---
 
