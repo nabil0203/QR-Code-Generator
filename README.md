@@ -25,8 +25,8 @@ YT.png
 ### 1. Clone or Download This Repository
 
 ```
-git clone https://github.com/your-username/qr-code-generator.git
-cd qr-code-generator
+git clone https://github.com/nabil0203/QR_Code_Generator.git
+cd QR_Code_Generator
 ```
 
 ### 2. Install Required Library
