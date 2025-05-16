@@ -56,9 +56,9 @@ python your_script_name.py
 ---
 
 ## 📦 Requirements
-● Python 3.x
+● Python 3.13.3
 
-● QrCode library:- pip install qrcode[pil]
+● Qr Code Library:- pip install qrcode[pil]
 
 ---
 
