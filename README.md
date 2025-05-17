@@ -38,9 +38,9 @@ pip install qrcode[pil]
 - Create or edit the `input.txt` file in the same folder.
 
 ### 4. Run the Script
-<pre>
+```
 python qrCode_generator.py
-</pre>
+```
 
 ✅ A QR code image (like YT.png) will be generated and saved in the current directory.
 
